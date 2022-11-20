@@ -11,8 +11,12 @@
             "id": "6b4415996118800f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NeonAscending_V0.4/【v0.4计划】+1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NeonAscending_V0.4/【v0.4计划】+1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NeonAscending_V0.4/【v0.4计划】+1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NeonAscending_V0.4/【v0.4计划】+1.md"
+              }
             }
           }
         ]
@@ -129,5 +137,12 @@
     "collapsed": true
   },
   "active": "6b4415996118800f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "NeonAscending_V0.4/【v0.4计划】.md",
+    "NeonAscending_V0.4/【v0.4.x】新模块和修改.md",
+    "NeonAscending_V0.4/【数据】成就一览表.md",
+    "NeonAscending_V0.4/【策划案】ShopSystem 商店系统.md",
+    "NeonAscending_V0.4/【策划案】RankingSystem 排行榜系统.md",
+    "NeonAscending_V0.4/【策划案】AchievementSystem 成就系统.md"
+  ]
 }
