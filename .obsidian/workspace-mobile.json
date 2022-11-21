@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "838ed1e8e1e7c645",
+    "type": "split",
+    "children": [
+      {
+        "id": "60736aa25b0792ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f877b60bc4a9e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NeonAscedningRemake/战斗系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46b2b3f263e51fc1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f8921dc9b6f799d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2739b319ef027c7f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e35db77103bc3d13",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "27020898ea40efbc",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f805e28cebbfcf94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c04694a0f98f5912",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NeonAscedningRemake/战斗系统.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ab22da03b983b26c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "NeonAscedningRemake/战斗系统.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "91ab195a6ccfd0d5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "NeonAscedningRemake/战斗系统.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9f877b60bc4a9e24",
+  "lastOpenFiles": []
+}
