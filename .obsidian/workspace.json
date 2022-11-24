@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75239af8971e4aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Godot笔记/extend类虚函数调用问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md",
+                "file": "Godot笔记/extend类虚函数调用问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md",
+                "file": "Godot笔记/extend类虚函数调用问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md"
+                "file": "Godot笔记/extend类虚函数调用问题.md"
               }
             }
           }
@@ -173,8 +185,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea53ad6049c5f2d8",
+  "active": "75239af8971e4aaf",
   "lastOpenFiles": [
+    "NeonAscedningRemake/战斗系统.md",
     "Misc/NeonAscending Remake.md",
     "NeonAscending_V0.4/【v0.4.x】新模块和修改.md",
     "NeonAscending_V0.4/【v0.4计划】.md",
