@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot笔记/extend类虚函数调用问题.md",
+                "file": "Godot笔记/子类虚函数和普通函数覆盖的情况.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot笔记/extend类虚函数调用问题.md",
+                "file": "NeonAscedningRemake/战斗系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot笔记/extend类虚函数调用问题.md",
+                "file": "NeonAscedningRemake/战斗系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot笔记/extend类虚函数调用问题.md"
+                "file": "NeonAscedningRemake/战斗系统.md"
               }
             }
           }
@@ -185,8 +185,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75239af8971e4aaf",
+  "active": "ea53ad6049c5f2d8",
   "lastOpenFiles": [
+    "Godot笔记/子类虚函数和普通函数覆盖的情况.md",
     "NeonAscedningRemake/战斗系统.md",
     "Misc/NeonAscending Remake.md",
     "NeonAscending_V0.4/【v0.4.x】新模块和修改.md",
@@ -195,7 +196,6 @@
     "NeonAscending_V0.4/【数据】成就一览表.md",
     "NeonAscending_V0.4/【】.md",
     "NeonAscending_V0.4/【策划案】ShopSystem 商店系统.md",
-    "NeonAscending_V0.4/【策划案】RankingSystem 排行榜系统.md",
-    "NeonAscending_V0.4/【策划案】AchievementSystem 成就系统.md"
+    "NeonAscending_V0.4/【策划案】RankingSystem 排行榜系统.md"
   ]
 }
