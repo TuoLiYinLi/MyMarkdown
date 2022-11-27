@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/NeonAscending Remake.md",
+                "file": "NeonAscedningRemake/玩法.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md",
+                "file": "NeonAscedningRemake/玩法.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md",
+                "file": "NeonAscedningRemake/玩法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md",
+                "file": "NeonAscedningRemake/玩法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeonAscedningRemake/战斗系统.md"
+                "file": "NeonAscedningRemake/玩法.md"
               }
             }
           }
@@ -199,14 +199,14 @@
   },
   "active": "fe9d4d8b47245dc3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "NeonAscedningRemake/战斗系统.md",
+    "conflict-files-obsidian-git.md",
     "NeonAscending_V0.4/【策划案】AchievementSystem 成就系统.md",
     "NeonAscending_V0.4/【策划案】RankingSystem 排行榜系统.md",
     "NeonAscending_V0.4/【v0.4.x】新模块和修改.md",
     "NeonAscending_V0.4/【v0.4计划】.md",
     "Godot笔记/子类虚函数和普通函数覆盖的情况.md",
-    "Misc/NeonAscending Remake.md",
+    "NeonAscedningRemake/玩法.md",
     "NeonAscending_V0.4/【程序设计文档】.md",
     "NeonAscending_V0.4/【数据】成就一览表.md"
   ]
